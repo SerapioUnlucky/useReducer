@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { JuegoReducer } from '../reducer/JuegoReducer';
+import { JuegoReducer } from '../hook/JuegoReducer';
 
 const init = () => {
 
